@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashank Sharma</h1>
-<h3 align="center">A spirited Web Developer from India.</h3>
+<h3 align="center">Software Developer proficient in Python, OOPS and frontend development, passionate about creating innovative web solutions.</h3>
 <img align="right" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank-sharma99&label=Profile%20views&color=0e75b6&style=flat" alt="shashank-sharma99" /> </p>
@@ -8,15 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Crypto Dashboard](crypto-hunters.vercel.app)
 
-- 🌱 I’m currently learning **React.**
+- 🌱 I’m currently learning **MERN Stack.**
 
-- 💬 Ask me about **C++||Data Structure||Frontend**
+- 💬 Ask me about **Python||OOPS||Frontend**
 
 - 📫 How to reach me **Sharmashashank2357@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
