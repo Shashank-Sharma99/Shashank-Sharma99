@@ -15,7 +15,7 @@ I build small AI and web projects with Python and PyTorch, and I'm currently dee
 - **Database & Tools:** MySQL, GitHub, AWS (Cloud Practitioner Essentials)
 
 ## Projects
-- **[Digit Recognition System](ADD-REPO-LINK)**: draw a digit and get real-time predictions with confidence scores (PyTorch)
+- **[Digit Recognition System]([ADD-REPO-LINK](https://github.com/Shashank-Sharma99/Digit-Recognition-System))**: draw a digit and get real-time predictions with confidence scores (PyTorch)
 - **[Crypto Dashboard](ADD-REPO-LINK)**: real-time crypto market data with interactive charts (React, Streamlit, Pandas)
 
 ## Connect
