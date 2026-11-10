@@ -1,41 +1,23 @@
-<h1 align="center">Hi 👋, I'm Shashank Sharma</h1>
-<h3 align="center">Software Developer proficient in Python, OOPS and frontend development, passionate about creating innovative web solutions.</h3>
-<img align="right" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+# Hi, I'm Shashank Sharma 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shashank-sharma99&label=Profile%20views&color=0e75b6&style=flat" alt="shashank-sharma99" /> </p>
+**B.Tech (IT) graduate and MBA | Aspiring AI Engineer**
 
+I build small AI and web projects with Python and PyTorch, and I'm currently deepening my skills in machine learning, deep learning and GenAI.
 
+## What I'm working on
+- 🌱 Learning: Machine Learning, Deep Learning, scikit-learn, RAG
+- 🔭 Building: end-to-end ML projects and a RAG chatbot
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+## Skills
+**Languages:** Python, SQL, JavaScript, HTML, CSS
+**AI / Data:** PyTorch, Pandas
+**Web:** React, Tailwind CSS, Streamlit, Chart.js
+**Database & Tools:** MySQL, GitHub, AWS (Cloud Practitioner Essentials)
 
+## Projects
+- **[Digit Recognition System](ADD-REPO-LINK)**: draw a digit and get real-time predictions with confidence scores (PyTorch)
+- **[Crypto Dashboard](ADD-REPO-LINK)**: real-time crypto market data with interactive charts (React, Streamlit, Pandas)
 
-- 🌱 I’m currently learning **MERN Stack.**
-
-- 💬 Ask me about **Python||OOPS||Frontend**
-
-- 📫 How to reach me **Sharmashashank2357@gmail.com**
-
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shashank-sharma2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shashank-sharma2" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19523637/shashank-sharma?tab=profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19523637/shashank-sharma?tab=profile" height="30" width="40" /></a>
-<a href="https://instagram.com/shashank_sharma4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashank_sharma4" height="30" width="40" /></a>
-<a href="https://dribbble.com/https://dribbble.com/shashank_sharma9?onboarding=true&designer=true" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="https://dribbble.com/shashank_sharma9?onboarding=true&designer=true" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/shashank_2357" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shashank_2357" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@it_3c_20b0131207" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@it_3c_20b0131207" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shashank_sharma4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shashank_sharma4" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/shashank sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="shashank sharma" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sharmashashank2357" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sharmashashank2357" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashank-sharma99&show_icons=true&locale=en&layout=compact" alt="shashank-sharma99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashank-sharma99&show_icons=true&locale=en" alt="shashank-sharma99" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashank-sharma99&" alt="shashank-sharma99" /></p>
+## Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/shashank-sharma22/)
+- 📧 shashank.sharmaa9@gmail.com
