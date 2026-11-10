@@ -9,10 +9,10 @@ I build small AI and web projects with Python and PyTorch, and I'm currently dee
 - 🔭 Building: end-to-end ML projects and a RAG chatbot
 
 ## Skills
-**Languages:** Python, SQL, JavaScript, HTML, CSS
-**AI / Data:** PyTorch, Pandas
-**Web:** React, Tailwind CSS, Streamlit, Chart.js
-**Database & Tools:** MySQL, GitHub, AWS (Cloud Practitioner Essentials)
+- **Languages:** Python, SQL, JavaScript, HTML, CSS
+- **AI / Data:** PyTorch, Pandas
+- **Web:** React, Tailwind CSS, Streamlit, Chart.js
+- **Database & Tools:** MySQL, GitHub, AWS (Cloud Practitioner Essentials)
 
 ## Projects
 - **[Digit Recognition System](ADD-REPO-LINK)**: draw a digit and get real-time predictions with confidence scores (PyTorch)
