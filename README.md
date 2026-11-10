@@ -15,9 +15,8 @@ I build small AI and web projects with Python and PyTorch, and I'm currently dee
 - **Database & Tools:** MySQL, GitHub, AWS (Cloud Practitioner Essentials)
 
 ## Projects
-- **[Digit Recognition System]([https://github.com/Shashank-Sharma99/Digit-Recognition-System])**: draw a digit and get real-time predictions with confidence scores (PyTorch)
-- **[Crypto Dashboard](ADD-REPO-LINK)**: real-time crypto market data with interactive charts (React, Streamlit, Pandas)
-
+- **[Digit Recognition System](https://github.com/Shashank-Sharma99/Digit-Recognition-System)**: draw a digit and get real-time predictions with confidence scores (PyTorch, Flask)
+- **Crypto Dashboard**: real-time crypto market data with interactive charts (React, Streamlit, Pandas)
 ## Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/shashank-sharma22/)
 - 📧 shashank.sharmaa9@gmail.com
